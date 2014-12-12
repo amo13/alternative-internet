@@ -67,6 +67,10 @@ Pull requests VERY welcome!
 The [Drogulus](http://drogul.us/) (WIP) is a programmable peer-to-peer data store. It's an open, federated and decentralised system where the identity of users and provenance of data is ensured by cryptographically signing digital assets.
 [Redecentralise Video interview](http://redecentralize.org/#interviews)
 
+### DuckDuckGo
+
+[DuckDuckGo](http://duckduckgo.com/) is a search engine that doesn't track you. 
+
 ## E
 
 ### eDonkey network (eD2k)
